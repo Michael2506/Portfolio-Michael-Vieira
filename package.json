@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-michael-vieira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.26.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael2506/Portfolio-Michael-Vieira.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michael2506/Portfolio-Michael-Vieira/issues"
+  },
+  "homepage": "https://github.com/Michael2506/Portfolio-Michael-Vieira#readme"
+}
